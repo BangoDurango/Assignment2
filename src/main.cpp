@@ -24,8 +24,9 @@ int main (int argc, char* argv[]){
 	while (getline(inFile, line)) {
 		cout << line << endl;
 	}
+
+
 	inFile.close();
-	//string netlistFile = argv[1];
-	//string verilogFile = argv[2];
+
 	return 0;
 }
