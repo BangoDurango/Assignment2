@@ -39,9 +39,19 @@ $RECYCLE.BIN/
 .Trashes
 .VolumeIcon.icns
 
+build/
+
 # Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
 Network Trash Folder
 Temporary Items
 .apdisk
+build/Win32/Debug/ZERO_CHECK/ZERO_CHECK.log
+*.vcxproj
+build/.vs/dpgen/v14/.suo
+*.check_cache
+build/CMakeFiles/CMakeOutput.log
+*.bin
+build/CMakeFiles/generate.stamp.depend
+Assignment2.pdf
